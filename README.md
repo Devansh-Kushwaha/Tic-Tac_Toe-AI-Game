@@ -84,11 +84,6 @@ Handles player and AI moves, returning the updated board and game result.
 
 ---
 
-## 📸 Preview
-![Tic Tac Toe AI Game Screenshot](https://via.placeholder.com/800x400?text=Tic+Tac+Toe+AI+Game)
-
----
-
 ## 👨‍💻 Author
 **Devansh Kushwaha**  
 🎓 Final-year B.Tech CSE student at IIIT Surat  
